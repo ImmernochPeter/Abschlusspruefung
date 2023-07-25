@@ -3,6 +3,8 @@
 Inhalte für Lernfeld 1: Das Unternehmen und die eigene Rolle
 im Betrieb beschreiben
 
+Basierend auf: Unterreicht von Frau Thierbach
+
 [Zurück](/README.md)
 
 ## Lehrplan
@@ -45,12 +47,20 @@ Sie reflektieren die eigene Rolle und das eigene Handeln im Betrieb.
 
 ## Inhalt
 
+- [Meine Rolle im Betrieb](/LF01/pages/meine-rolle-im-un.md)
+- [Unternehmen und Betriebe]
+- [Unternehmensziele]
+- [Rechtsformen und Prokura]
+- [Aufbauorganisation und Unternehmensführung]
+- [Wertschöpfungs- und Geschäftsprozesse unterscheiden]
+
 [Hoch](#lernfeld-1)
 
 ---
 ---
 
 @_Prüfungsvorbereitung für die Abschlussprüfung 2024_
+
 von Jessica Hofmann, John Konitzer, Leon Hecke und Peter Koban
 
 ---
