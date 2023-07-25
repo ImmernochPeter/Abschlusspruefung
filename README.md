@@ -49,6 +49,7 @@ Abschlussprüfung 2024 FIAE + FISI
 ---
 
 @_Prüfungsvorbereitung für die Abschlussprüfung 2024_
+
 von Jessica Hofmann, John Konitzer, Leon Hecke und Peter Koban
 
 ---
