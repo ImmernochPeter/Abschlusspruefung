@@ -8,9 +8,20 @@ Inhalte basierend auf dem Unterricht von Frau Thierbach
 
 ## Inhalte
 
-- [Duale Ausbildung](#duale-ausbildung)
-- [Ausbildung im Betrieb](#ausbildung-im-betrieb)
-- [Ausbildung in der Berufsschule](#ausbildung-in-der-berufsschule)
+- [Meine Rolle im Unternehmen (LF1)](#meine-rolle-im-unternehmen-lf1)
+  - [Inhalte](#inhalte)
+  - [Duale Ausbildung](#duale-ausbildung)
+    - [Beteiligte](#beteiligte)
+    - [Warum ist die Ausbildung Dual?](#warum-ist-die-ausbildung-dual)
+  - [Ausbildung im Betrieb](#ausbildung-im-betrieb)
+    - [Ausbildungsordnung](#ausbildungsordnung)
+    - [Ausbildungsplan](#ausbildungsplan)
+    - [Berufsausbildungsvertrag](#berufsausbildungsvertrag)
+    - [Ausbildungsnachweis](#ausbildungsnachweis)
+    - [Aufsicht](#aufsicht)
+  - [Ausbildung in der Berufsschule](#ausbildung-in-der-berufsschule)
+    - [Handlungskompetenz](#handlungskompetenz)
+    - [Aufsicht](#aufsicht-1)
 
 ---
 ---
@@ -28,6 +39,7 @@ Inhalte basierend auf dem Unterricht von Frau Thierbach
 ### Warum ist die Ausbildung Dual?
 
 - findet in der Berufsschule sowie im Unternehmen/Betrieb statt
+- ist staatlich über Berufsbildungsgesetz (BBiG) geregelt
 
 [Hoch](#meine-rolle-im-unternehmen-lf1)
 
@@ -36,7 +48,13 @@ Inhalte basierend auf dem Unterricht von Frau Thierbach
 
 ## Ausbildung im Betrieb
 
+- Betriebe müssen bei der zuständigen IHK zugelassen sein
+- Betriebe müssen Ausbildungsvertrag mit Auszubildenden auf Formblatt der IHK erstellen und schriftlich geschlossen haben
+- Betriebe müssen Ausbildungsplan erstellen und bei IHK einreichen
+
 ### Ausbildungsordnung
+
+- auf Basis des BBiG beschrieben
 
 - Abschnitt 1:
   - Gegestand, Dauer und Gliederung der Ausbildung
@@ -44,6 +62,27 @@ Inhalte basierend auf dem Unterricht von Frau Thierbach
   - Abschlussprüfung
 - Abschnitt 3:
   - Schlussvorschriften
+
+### Ausbildungsplan
+
+- auf Basis der Ausbildungsordnung erstellt
+- sachlich, zeitliche Gliederung
+- als Anlage zum Ausbildungsvertrag
+
+### Berufsausbildungsvertrag
+
+- kommt durch einwilligung der Vertragsparteien als privatrechtlicher Vertrag zustande
+- in schriftlicher Form
+- Mindestanforderungen im BBiG geregelt
+
+### Ausbildungsnachweis
+
+- vom Auszubildenden schriftlich zu führen
+- vom Ausbildenden zu überprüfen
+
+### Aufsicht
+
+- IHK 
 
 [Hoch](#meine-rolle-im-unternehmen-lf1)
 
@@ -54,15 +93,19 @@ Inhalte basierend auf dem Unterricht von Frau Thierbach
 
 - Unterricht erfolgt in Lernfeldern
 - Lernfelder sind für das 1. und 2. AJ berufsübergreifend
-- Ziel: Herausbildung von Kompetenzen
+- Ziel: Herausbildung von **Kompetenzen**
 
-![alt Kompetenzen Bild 1](/LF01/images/kompetenzen1.png)
+### Handlungskompetenz
 
-Kompetenzen Bild 1
+> ... wird als die Bereitschaft und Befähigung des Einzelnen verstanden, sich in beruflichen, privaten und gesellschaftlichen Situationen sachgerecht, individuell, durchdacht und sozial verantwortlich zu verhalten. Handlungskompetenz entfaltet sich in den Dimensionen von Fach-, Sozial- und Selbstkompetenz. Methodenkompetenz, kommunikative Kompetenz und Lernkompetenz sind immanenter (innenwohnender) Bestandteil von Fachkompetenz, Selbstkompetenz und Sozialkompetenz.
 
-![alt Kompetenzen Bild 2](/LF01/images/kompetenzen2.png)
+![alt Kompetenzen Bild 1](/LF01/images/kompetenzen.png)
+*Abb. Kompetenzen* <br>
+<sub>Gratzke, J. (Hg.): IT-Berufe. Grundstufe 1. Jahr. Westermann Verlag Braunschweig 2020. </sub>
 
-Kompetenzen Bild 2
+### Aufsicht
+
+- Schulleitung bzw. die obere Schulaufsichtsbehörde
 
 [Hoch](#meine-rolle-im-unternehmen-lf1)
 
