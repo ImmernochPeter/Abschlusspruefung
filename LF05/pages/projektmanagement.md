@@ -11,7 +11,7 @@ Inhalte basierend auf dem Unterricht von Frau Bardon
 - [Projekte](#projekte)
 - [Aufgaben des Projektmanagements](#aufgaben-des-projektmanagements)
 - [Projektauftrag](#projektauftrag)
-- [Projektstrukturplan]()
+- [Projektstrukturplan](#projektstrukturplan)
 - [Gannt]
 - [Projektabschlussprotokoll]
 - [Projektstatusbericht]
@@ -182,6 +182,55 @@ erfolgreich das Team gearbeitet hat
 ![alt Zielkomponenten](/LF05/images/zielkomponenten.png)
 
 Zielkomponeten (Aus Präsentation von Frau Bardon - BSZETDD)
+
+[Hoch](#projektmanagement-lf5)
+
+---
+---
+
+## Projektstrukturplan
+
+- ist das Ergebnis einer Gliederung des Projekts in plan- und
+kontrollierbare Elemente
+- Herzstück jeden Projektes
+- Projekte werden in Teilaufgaben und Arbeitspakete unterteilt
+  - Elemente, die weiter unterteilt werden müssen
+  - sind Elemente, die sich im PSP auf der untersten Ebene befinden und dort nicht weiter unterteilt werden
+  - enthalten die Elemente (Vorgang, Vorgänge), die für die weiteren Planungsstufen benötigt werden
+- Erstellung eines PSP ist nach heutigem Erkenntnisstand
+des Projektmanagements eine der zentralen Aufgaben der
+Projektplanung
+- er ist die Grundlage für die Termin- und Ablaufplanung, die
+Ressourceneinplanung und die Kostenplanung
+- auch fließen die Erkenntnisse aus dem PSP in das
+Risikomanagement ein
+- weil er als Grundlagenplanung für ein Projekt angesehen
+werden kann, wird der PSP gerne als „Plan der Pläne“
+bezeichnet
+- jeder PSP ist ein Unikat
+- unter Berücksichtigung bestimmter Branchen ->
+Feststellung: Inhalte von Plänen wiederholen sich
+- Standardstrukturpläne bieten die Möglichkeit:
+  - planerische Arbeit einzusparen
+  - anpassen an die bestehende Aufgabe
+- Standard-PSP als Maximallösung -> Nutzung gleichzeitig als
+Checkliste
+- wird sichergestellt, dass keine wesentlichen Aufgaben
+vergessen werden
+
+### Darstellungsmöglichkeiten
+
+- Vertikale Darstellung
+
+![alt PSP vertikal](/LF05/images/psp-vertikal.png)
+
+- Horizontale Darstellung
+
+![alt PSP horizontal](/LF05/images/psp-horizontal.png)
+
+- Textdarstellung
+
+![alt PSP text](/LF05/images/psp-text.png)
 
 [Hoch](#projektmanagement-lf5)
 
