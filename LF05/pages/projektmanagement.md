@@ -13,7 +13,7 @@ Inhalte basierend auf dem Unterricht von Frau Bardon
 - [Projektauftrag](#projektauftrag)
 - [Projektstrukturplan](#projektstrukturplan)
 - [Risikoanalyse](#risikoanalyse)
-- [Gannt]
+- [Gantt Diagramm](#gantt-diagramm)
 - [Projektabschlussprotokoll]
 - [Projektstatusbericht]
 
@@ -224,13 +224,19 @@ vergessen werden
 
 ![alt PSP vertikal](/LF05/images/psp-vertikal.png)
 
+(Aus Präsentation von Frau Bardon - BSZETDD)
+
 - Horizontale Darstellung
 
 ![alt PSP horizontal](/LF05/images/psp-horizontal.png)
 
+(Aus Präsentation von Frau Bardon - BSZETDD)
+
 - Textdarstellung
 
 ![alt PSP text](/LF05/images/psp-text.png)
+
+(Aus Präsentation von Frau Bardon - BSZETDD)
 
 [Hoch](#projektmanagement-lf5)
 
@@ -297,6 +303,55 @@ Projektrisiken
 - Risikomanagement ist ein kontinuierlicher Prozess im Projekt
 - vorheriges identifizieren und suchen von Gegenmaßnahmen
 reicht nicht aus
+
+[Hoch](#projektmanagement-lf5)
+
+---
+---
+
+## Gantt Diagramm
+
+- auch Balkenplan genannt
+- ist ein nach dem Unternehmensberater Henry L. Gantt (1861–1919) benanntes Instrument des Projektmanagements
+- stellt zeitliche Abfolge von Aktivitäten grafisch in Form
+von Balken auf einer Zeitachse dar
+- die Aktivitäten eines Projektes werden in die erste Spalte
+einer Tabelle eingetragen
+- erste Zeile der Tabelle -> darstellen Zeitachse
+- einzelnen Aktivitäten -> visualisiert in jeweiliger Zeile mit
+waagerechten Balken
+- je länger der Balken -> desto länger dauert die Aktivität
+(Tage, Monate, Stunden usw.)
+- sich überschneidende Aktivitäten werden durch
+überlappende Balken dargestellt
+- Visualisierung des kritischen Pfades möglich
+- Abhängigkeiten zwischen den Aktivitäten  einfügen von
+Pfeilen
+- große Anzahl an Aktivitäten  Darstellung kann
+unübersichtlich werden
+- geeignet für Projekte mit einer geringen bis mittleren
+Anzahl an Aktivitäten
+- Wahl des richtigen Detaillierungsgrades wichtig zu
+geringe Anzahl an Aktivitäten oder nur die Darstellung von
+Teilprojekten -> keine ausreichende Kontrolle der
+Aktivitäten
+- Aufnahme jeder einzelnen Tätigkeit  Aussagekraft wird
+schwach
+- Zusammenfassung von Aktivitäten zu Projektphasen
+erhöht Übersichtlichkeit
+
+### Vergleich zum Netzplan
+
+Vortiele|Nachteile
+-|-
+Dauer der Aktivitäten -> wird durch Balkenlänge sichtbar wiedergegeben | Abhängigkeiten zwischen Aktivitäten -> zeitbezogen Darstellung
+Ende-Start-Beziehungen können auch im Verlauf einer Aktivität angesetzt werden
+
+### Beispiel
+
+![alt Gantt Diagramm](/LF05/images/gantt.png)
+
+Gantt Diagramm (Aus Präsentation von Frau Bardon - BSZETDD)
 
 [Hoch](#projektmanagement-lf5)
 
