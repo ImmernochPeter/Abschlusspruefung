@@ -10,9 +10,10 @@ Inhalte basierend auf dem Unterricht von Frau Bardon
 
 - [Projekte](#projekte)
 - [Aufgaben des Projektmanagements](#aufgaben-des-projektmanagements)
+- [Projektauftrag](#projektauftrag)
+- [Projektstrukturplan]()
 - [Gannt]
 - [Projektabschlussprotokoll]
-- [Projektauftrag]
 - [Projektstatusbericht]
 - [Risikoanalyse]
 
@@ -126,6 +127,61 @@ managt -> steuert dieses
 - Personaleinsatz Personalauswahl/-fortbildung
 - Führung Überwachung, Leitung der Arbeiten und des Personals
 - Kontrolle Überprüfung der erreichten Ergebnisse
+
+[Hoch](#projektmanagement-lf5)
+
+---
+---
+
+## Projektauftrag
+
+![alt Projektauftrag](/LF05/images/projektauftrag.png)
+
+Projektauftrag (Aus Präsentation von Frau Bardon - BSZETDD)
+
+- Projekt startet offiziell, wenn das Projektziel definiert ist
+und der Projektauftrag erteilt wurde
+- Ist sinnvoll wegen:
+  - Projektdokumentation
+  - Nachvollziehbarkeit
+
+[Projektauftrag.pdf](/LF05/images/Projektauftrag_A4.pdf)
+
+### Inhalt
+
+- Projektnummer und Projektname
+- Projektauftraggeber
+- Projektleiter und Stellvertreter
+- Projektteammitarbeiter
+- Projektziel
+- Projektumfang
+- interne und externe Projektkosten
+- Start- und Endtermin
+- Meilensteine (mit Datum)
+- relevante Randbedingungen/Voraussetzungen für den
+Projekterfolg
+- Datum und Unterschrift von Projektleiter und Auftraggeber
+
+### Zielfunktionen
+
+- Klärungsfunktion
+  - Auftraggeber und Auftragnehmer wird vor Augen geführt, was
+genau erreicht werden soll
+- Orientierungsfunktion
+  - Projektleiter und Team können sich immer an den betreffenden
+Zielen orientieren
+- Motivationsfunktion
+  - nachweisliches Erreichen von Teilzielen wirkt motivierend auf
+die Projektmitglieder
+- Kontrollfunktion
+  - mittels konkreter Ziele kann objektiv überprüft werden, wie
+erfolgreich das Team gearbeitet hat
+
+### Zielkomponenten
+
+![alt Zielkomponenten](/LF05/images/zielkomponenten.png)
+
+Zielkomponeten (Aus Präsentation von Frau Bardon - BSZETDD)
 
 [Hoch](#projektmanagement-lf5)
 
