@@ -38,6 +38,9 @@ Sie evaluieren den Prozess der Softwareentwicklung.
 
 ## Inhalt
 
+- [Projektmanagement]
+- [Grundlagen Programmierung]
+
 [Hoch](#lernfeld-5)
 
 ---
