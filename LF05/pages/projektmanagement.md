@@ -12,10 +12,10 @@ Inhalte basierend auf dem Unterricht von Frau Bardon
 - [Aufgaben des Projektmanagements](#aufgaben-des-projektmanagements)
 - [Projektauftrag](#projektauftrag)
 - [Projektstrukturplan](#projektstrukturplan)
+- [Risikoanalyse](#risikoanalyse)
 - [Gannt]
 - [Projektabschlussprotokoll]
 - [Projektstatusbericht]
-- [Risikoanalyse]
 
 ## Projekte
 
@@ -237,8 +237,73 @@ vergessen werden
 ---
 ---
 
-@_Prüfungsvorbereitung für die Abschlussprüfung 2024_
+## Risikoanalyse
 
+- jedes Projekt beinhaltet aufgrund seiner Komplexität
+diverse Risiken
+- Was kann ein Risiko bewirken?
+  - erhöhte Kosten
+  - verlängerte Bearbeitungszeit
+  - gefährdete Zielerreichung
+- Projektabbruch
+- wichtig, Projektrisiken im Vorfeld
+  - zu identifizieren
+  - zu bewerten
+  - Gegenmaßnahmen beschließen
+
+### Kategorien
+
+- Eintrittswahrscheinlichkeit
+- Schadensausmaß bei Eintritt (Bedeutung für die Arbeit)
+(= Bedeutung für den Projekterfolg)
+- Festlegung der Wahrscheinlichkeit der Erkennung
+(je schneller die Erkennung, je kleiner sie Prioritätszahl)
+- daraus ergibt sich eine Prioritätszahl PZ= (A*B*E)
+(Multiplikation der Kategorien)
+- Methoden zur Bewertung
+  - qualitativ (z. B. Brainstorming, Gruppendiskussion)
+  - quantitativ (z. B. Risiko-Kennzahlen, Risikokosten)
+
+### Risikoarten
+
+- Akzeptanzrisiken
+  - Lösung wird von den Betroffenen abgelehnt/akzeptiert
+- Qualitätsrisiken
+  - Ergebnis entspricht nicht der geforderten Qualität
+- Auslastungsrisiken
+  - Personalressourcen sind nicht in ausreichendem Maß verfügbar
+(z. B. zeitl. Überlastung, Krankheit)
+- Kostenrisiken
+  - Projektbudget reicht nicht aus
+- Terminrisiken
+  - Terminvorgaben sind nicht einhaltbar
+
+- es genügt nicht die Risiken zu identifizieren und zu
+bewerten -> wichtig ist es, Gegenmaßnahmen zu treffen:
+
+- Vermeidung
+  - (... durch Änderung der Projektziele und –inhalte)
+- Verminderung
+  - (... durch verstärkte Projektkommunikation)
+- Übertragung
+  - (...an den Auftraggeber)
+- Akzeptanz
+  - (... nur bei strategisch unbedeutenden Risiken)
+
+- Risikogehalt von Projekten steigt i. d. R. mit der Größe und
+Komplexität
+- erfolgsentscheidend ist professioneller Umgang mit
+Projektrisiken
+- Risikomanagement ist ein kontinuierlicher Prozess im Projekt
+- vorheriges identifizieren und suchen von Gegenmaßnahmen
+reicht nicht aus
+
+[Hoch](#projektmanagement-lf5)
+
+---
+---
+
+@_Prüfungsvorbereitung für die Abschlussprüfung 2024_
 von Jessica Hofmann, John Konitzer, Leon Hecke und Peter Koban
 
 ---
