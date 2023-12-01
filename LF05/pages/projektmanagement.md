@@ -14,8 +14,8 @@ Inhalte basierend auf dem Unterricht von Frau Bardon
 - [Projektstrukturplan](#projektstrukturplan)
 - [Risikoanalyse](#risikoanalyse)
 - [Gantt Diagramm](#gantt-diagramm)
-- [Projektabschlussprotokoll]
-- [Projektstatusbericht]
+- [Projektabschlussprotokoll](#projektabschlussprotokoll)
+- [Projektstatusbericht](#projektstatusbericht)
 
 ## Projekte
 
@@ -352,6 +352,32 @@ Ende-Start-Beziehungen können auch im Verlauf einer Aktivität angesetzt werden
 ![alt Gantt Diagramm](/LF05/images/gantt.png)
 
 Gantt Diagramm (Aus Präsentation von Frau Bardon - BSZETDD)
+
+[Hoch](#projektmanagement-lf5)
+
+---
+---
+
+## Projektabschlussprotokoll
+
+- wird zum Projektabschluss angefertigt
+
+[Projektabschlussprotokoll](/LF05/images/Projektabschlussprotokoll2022.pdf)
+
+Projektabschlussprotokoll (Aus Präsentation von Frau Bardon - BSZETDD)
+
+[Hoch](#projektmanagement-lf5)
+
+---
+---
+
+## Projektstatusbericht
+
+- wird zu jeder Meilensteinberatung angelegt
+
+[Projektstatusbericht](/LF05/images/Projektstatusbericht2020_A4-1.pdf)
+
+Projektstatusbericht (Aus Präsentation von Frau Bardon - BSZETDD)
 
 [Hoch](#projektmanagement-lf5)
 
