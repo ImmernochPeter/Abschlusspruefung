@@ -22,6 +22,11 @@ Inhalte basierend auf dem Unterricht von Frau Thierbach
   - [Ausbildung in der Berufsschule](#ausbildung-in-der-berufsschule)
     - [Handlungskompetenz](#handlungskompetenz)
     - [Aufsicht](#aufsicht-1)
+  - [Rechte und Pflichten nach BBiG](#rechte-und-pflichten-nach-bbig)
+    - [Bestandteile des Ausbildungsvertrages](#bestandteile-des-ausbildungsvertrages)
+  - [Arbeitsrechte und Mitbestimmungsmöglichkeiten](#arbeitsrechte-und-mitbestimmungsmöglichkeiten)
+    - [Entgeltformen](#entgeltformen)
+    - [Mitbestimmungsgesetze, Betriebsrat, Betriebsvereinbarungen](#mitbestimmungsgesetze-betriebsrat-betriebsvereinbarungen)
 
 ---
 ---
@@ -112,7 +117,69 @@ Inhalte basierend auf dem Unterricht von Frau Thierbach
 ---
 ---
 
+## Rechte und Pflichten nach BBiG
+
+| Pflichten des Ausbildenden/ Rechte des Auszubildenden | Pflichten des Auszubildenden |
+| --- | --- |
+| Ausbildungspflicht | Lernpflicht |
+| Freistellung für Berufsschulunterricht, außerbetriebliche Ausbildung und Prüfungen | Teilnahme am berufsschulunterricht, außerbetriebliche Ausbildung und Prüfungen |
+| Benennung weisungsberechtigter Personen | Weisungsgebundenheit |
+| Aufsichtspflicht | Einhaltung der Ordnung |
+| Ausbildungsnachweiskontrolle | Ausbildungsnachweisführung |
+| Bereitstellung der Ausbildungsmittel | Pflegliche Behandlung der Ausbildungsmittel |
+| Urlaubsgewährung | Erholungspflicht |
+| Vergütungspflicht | Benachrichtigungspflicht |
+| Zweckgebundene Übertragung von Aufgaben | Sorgfältige Ausführung von Aufgaben |
+| Zeugnispflicht | Geheimhaltungspflicht |
+
+
+### Bestandteile des Ausbildungsvertrages
+
+1. Art, sachliche und zeitliche Gliederung sowie Ziel der Berufsausbildung
+2. Beginn und Dauer der Berufsausbildung
+3. Ausbildungsmaßnahmen außerhalb der Ausbildungsstätte
+4. Dauer der regelmäßigen täglichen Arbeitszeit
+5. Dauer der Probezeit
+6. Zahlung und Höhe der Vergütung
+7. Dauer des urlaubs
+8. voraussetzungen, unter denen der Berufsausbildungsvertrag gekündigt werden kann
+9. Form des ausbildungsnachweises (schriftlich, digital)
+
+[Hoch](#meine-rolle-im-unternehmen-lf1)
+
+---
+---
+
+## Arbeitsrechte und Mitbestimmungsmöglichkeiten
+
++ Vertragsfreiheit, individuelles und killektives Vertragsrecht, Günstigkeitsprinzip
++ Arbeitszeitgesetz
++ Teilzeit- und Befristungsgesetz
++ BGB und Kündigungsschutzgesetz
++ Allgemeines Gleichbehandlungsgesetz
++ Mindestlohngesetz
++ Entgeltfortzahlungsgesetz
++ Betriebseingliederungsmanagement
++ Bundesurlaubsgesetz
++ Mutterschutzgesetz
++ Bundeseltern- und Elternzeitgesetz
++ Schwerbehindertengesetz
++ Kurzarbeit
+
+### Entgeltformen
+
+![alt Entgeltformen Bild 2](/LF01/images/entgeltformen.png)
+*Abb. Entgeltformen* <br>
+<sub>Gratzke, J. (Hg.): IT-Berufe. Grundstufe 1. Jahr. Westermann Verlag Braunschweig 2020. </sub>
+
+### Mitbestimmungsgesetze, Betriebsrat, Betriebsvereinbarungen
+[Hoch](#meine-rolle-im-unternehmen-lf1)
+
+---
+---
+
 @_Prüfungsvorbereitung für die Abschlussprüfung 2024_
+
 
 von Jessica Hofmann, John Konitzer, Leon Hecke und Peter Koban
 
